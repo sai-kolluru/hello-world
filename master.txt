@@ -1,3 +1,0 @@
-this is from local master branch.
-
-some other change.
